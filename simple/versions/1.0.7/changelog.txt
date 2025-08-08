@@ -1,0 +1,5 @@
+- Fixed lag caused by Create machines
+- Improved darkness and lighting in low light environments
+- Fixed trains derailing on sloped tracks
+- Built-in Bdog's Last Spore server into modpack
+- Added an update checking feature
