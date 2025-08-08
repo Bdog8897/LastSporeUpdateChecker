@@ -1,0 +1,15 @@
+{
+  "schemaVersion": 9,
+  "hotfixesFormat": null,
+  "versions": [
+ {
+        "id": "1.0.7",
+        "releasedAt": 1754685894,
+        "promotions": {
+            "downloads": {
+                "generic": https://www.dropbox.com/scl/fi/g5zeehxvkml2xl400nkwr/Last-Spore-1.20.1-1.0.7.mrpack?rlkey=htwppwmx4bq5agwfuhowcxdp7&st=6zkqo8qn&dl=0/"
+            }
+        }
+    }
+  ]
+}
